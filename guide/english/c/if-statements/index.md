@@ -128,7 +128,7 @@ n is equal to 5!
 The if-else statement has an 'else if' attached to it. This code runs if the condition within the previous if was false, but adds a condition within its own parenthesis that must be true before the code is run.
 
 ## Logical Operators
-Of course, we might want something to happen if it is not true, or if it and something else are true. For that, we have logical operators: ! for not, && for and, and || for or. Let's take a look at this in action:
+Of course, we might want something to happen if it is not true, or if it is and something else are true. For that, we have logical operators: ! for not, && for and, and || for or. Let's take a look at this in action:
 
 ```C
 #include <stdio.h>
